@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# tues2107
+#
+
+projectname: tues2107
+vendorid: com.agcaoiliczarina.example
+mainmodule: com.agcaoiliczarina.example.tues2107
